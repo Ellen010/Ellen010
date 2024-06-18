@@ -1,4 +1,4 @@
-![174-1747832_php-elephant-logo-php-elephant-gif-hd-png](https://github.com/Ellen010/Ellen010/assets/157579304/86b3b3b1-cdf9-4a05-9724-94aaf8ac64f3)- 👋 Hi, I’m @Ellen010
+- 👋 Hi, I’m @Ellen010
 - 👀 I’m interested in stepping into IT world.
   ![99cc9360636009 5a5478f09b256](https://github.com/Ellen010/Ellen010/assets/157579304/0ee23b3e-e953-4d01-9209-e55910020135)
 
@@ -9,9 +9,8 @@
 
 ![image](https://github.com/Ellen010/Ellen010/assets/157579304/27bde4d2-5f24-4327-a117-bccc54fc5498)
 ![159979537-7116a826-212c-45f4-a393-4abeabeabd07](https://github.com/Ellen010/Ellen010/assets/157579304/d22a7f2e-6086-498c-9904-4140a578808d)
-![200](https://github.com/Ellen010/Ellen010/assets/157579304/77b1893a-e2dc-41be-89f6-ecd6179e9efc)     ![174-1747832_php-elephant-logo-php-elephant-gif-hd-png]
-![Uploading 196006381-dd8a95b5-4826-432b-9ed3-ec71bf1f544f.png…]()
-
+![200](https://github.com/Ellen010/Ellen010/assets/157579304/77b1893a-e2dc-41be-89f6-ecd6179e9efc) 
+![images](https://github.com/Ellen010/Ellen010/assets/157579304/01432990-b76b-4fae-9079-37e029cb5e59)
 
 
 <!---
