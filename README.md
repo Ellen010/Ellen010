@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Ellen010
 - 👀 I’m interested in stepping into IT world.
-- ![Uploading image.png…]()
+- ![99cc9360636009 5a5478f09b256](https://github.com/Ellen010/Ellen010/assets/157579304/0ee23b3e-e953-4d01-9209-e55910020135)
+
 
 - 💞️ I’m looking to collaborate with all the ethusiasts.
 - 📫 How to reach me: Twitter: @El_w_
