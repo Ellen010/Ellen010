@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ellen010
+![CRA 1](https://github.com/Ellen010/Ellen010/assets/157579304/55c2be84-e134-4885-acfd-bf823b924286)- 👋 Hi, I’m @Ellen010
 - 👀 I’m interested in stepping into IT world.
   ![99cc9360636009 5a5478f09b256](https://github.com/Ellen010/Ellen010/assets/157579304/0ee23b3e-e953-4d01-9209-e55910020135)
 
@@ -11,6 +11,8 @@
 ![159979537-7116a826-212c-45f4-a393-4abeabeabd07](https://github.com/Ellen010/Ellen010/assets/157579304/d22a7f2e-6086-498c-9904-4140a578808d)
 ![200](https://github.com/Ellen010/Ellen010/assets/157579304/77b1893a-e2dc-41be-89f6-ecd6179e9efc) 
 ![images](https://github.com/Ellen010/Ellen010/assets/157579304/01432990-b76b-4fae-9079-37e029cb5e59)
+![benefits-of-react](https://github.com/Ellen010/Ellen010/assets/157579304/c0e3db7f-c6ba-4df0-ad63-b572406d6650)
+
 
 
 <!---
