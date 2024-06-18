@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ellen010
 - 👀 I’m interested in stepping into IT world.
-  ![99cc9360636009 5a5478f09b256](https://github.com/Ellen010/Ellen010/assets/157579304/0ee23b3e-e953-4d01-9209-e55910020135)
+![d3f472b06590a25cb4372ff289d81711_w200](https://github.com/Ellen010/Ellen010/assets/157579304/5a2c1f89-c505-4319-a86c-6f1fd79d3a2f)
 
 
 - 💞️ I’m looking to collaborate with all the ethusiasts.
