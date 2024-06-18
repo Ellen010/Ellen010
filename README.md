@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @Ellen010
 - 👀 I’m interested in stepping into IT world.
+- ![Uploading image.png…]()
+
 - 💞️ I’m looking to collaborate with all the ethusiasts.
 - 📫 How to reach me: Twitter: @El_w_
 - ⚡ Fun fact: I fond of contemporary art and Arthur Schopenhauer.
