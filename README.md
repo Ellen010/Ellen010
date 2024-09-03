@@ -2,7 +2,7 @@
 - 👀 I’m interested in stepping into IT world.
   
 
-![fa29413c4c28f61181e83dc4486805cc](https://github.com/Ellen010/Ellen010/assets/157579304/21077076-983b-4322-b764-0bdeeca43de7)
+<img src="https://github.com/Ellen010/Ellen010/assets/157579304/21077076-983b-4322-b764-0bdeeca43de7" width="200" />
 
 - 💞️ I’m looking to collaborate with all the ethusiasts.
 - 📫 How to reach me: Twitter: @El_w_
