@@ -12,9 +12,9 @@
 <img src="https://github.com/Ellen010/Ellen010/assets/157579304/01432990-b76b-4fae-9079-37e029cb5e59" height="150" width="175" />
 <img src="https://github.com/Ellen010/Ellen010/assets/157579304/c0e3db7f-c6ba-4df0-ad63-b572406d6650" height="150" width="175" />
 <img src="https://github.com/Ellen010/Ellen010/assets/157579304/0422e464-c68f-48a8-9354-568c158acf72" height="100" width="125" />
-<img src="https://github.com/Ellen010/Ellen010/assets/157579304/aed1c30a-ff45-42f5-b0c4-a8eba021c14d" height="60" width="80" />
-<img src="https://github.com/Ellen010/Ellen010/assets/157579304/d22a7f2e-6086-498c-9904-4140a578808d" height="60" width="80" />
-<img src="https://github.com/Ellen010/Ellen010/assets/157579304/cfc05d2d-8c27-4c3e-b7da-4eb6199a64c8" height="60" width="80" />
+<img src="https://github.com/Ellen010/Ellen010/assets/157579304/aed1c30a-ff45-42f5-b0c4-a8eba021c14d" height="80" width="100" />
+<img src="https://github.com/Ellen010/Ellen010/assets/157579304/d22a7f2e-6086-498c-9904-4140a578808d" height="80" width="100" />
+<img src="https://github.com/Ellen010/Ellen010/assets/157579304/cfc05d2d-8c27-4c3e-b7da-4eb6199a64c8" height="80" width="100" />
 
 List of tools I used:
 - MongoDB, Superbase, MySQL, DB designer.
