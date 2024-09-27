@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ellen010
-- 👀 I’m interested in stepping into IT world.
+- 👀 I am a full stack dev.
   
 
 <img src="https://github.com/Ellen010/Ellen010/assets/157579304/21077076-983b-4322-b764-0bdeeca43de7" width="200" />
