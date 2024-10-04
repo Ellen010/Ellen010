@@ -2,7 +2,7 @@
 - 👀 I am a full stack dev.
   
 
-https://upload.wikimedia.org/wikipedia/commons/a/a9/Rotating_earth_%28large%29_transparent.gif
+
 
 - 💞️ I’m looking to collaborate with all the ethusiasts.
 - 📫 How to reach me: Twitter: @El_w_
