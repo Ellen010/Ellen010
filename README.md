@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ellen010
 - 👀 I am a full stack dev.
   
-"C:\Users\ew122\Desktop\Rotating_earth_(large)_transparent.gif"
+https://cdn.dribbble.com/users/510724/screenshots/5751670/media/17e0042a98e1b9a0ac2daa8ab078bfa6.gif
 
 
 - 💞️ I’m looking to collaborate with all the ethusiasts.
