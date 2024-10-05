@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ellen010
 - 👀 I am a full stack dev.
   
-
+"C:\Users\ew122\Desktop\Rotating_earth_(large)_transparent.gif"
 
 
 - 💞️ I’m looking to collaborate with all the ethusiasts.
