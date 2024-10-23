@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b2c0b740-a5e4-4b19-beba-a5ff7ff15665)- 👋 Hi, I’m @Ellen010
+- 👋 Hi, I’m @Ellen010
 - 👀 I am a full stack dev.
   
 <img src="https://cdn.dribbble.com/users/510724/screenshots/5751670/media/17e0042a98e1b9a0ac2daa8ab078bfa6.gif" height="150" width="175">
