@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Ellen010
+![image](https://github.com/user-attachments/assets/b2c0b740-a5e4-4b19-beba-a5ff7ff15665)- 👋 Hi, I’m @Ellen010
 - 👀 I am a full stack dev.
   
 <img src="https://cdn.dribbble.com/users/510724/screenshots/5751670/media/17e0042a98e1b9a0ac2daa8ab078bfa6.gif" height="150" width="175">
- I share a lot of useful sources regarding new tools, extensions and all the info you might need in your developer journey. Feel free to read and comment!
+ - ;-) I share a lot of useful sources regarding new tools, extensions and all the info you might need in your developer journey. Feel free to read and comment!
 
 - 💞️ I’m looking to collaborate with all the ethusiasts.
 - 📫 How to reach me: Twitter: @El_w_
