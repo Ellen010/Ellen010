@@ -15,7 +15,7 @@
 <img src="https://github.com/user-attachments/assets/530d094f-6e2a-4090-8e5a-f7a6ef5101bd" height="110" width="125" />
 <img src="https://github.com/user-attachments/assets/68222e5e-e141-4f23-9c96-a06620736fdd" height="100" width="125" />
 <img src="https://github.com/Ellen010/Ellen010/assets/157579304/c0e3db7f-c6ba-4df0-ad63-b572406d6650" height="100" width="125" />
-<img src="https://github.com/Ellen010/Ellen010/assets/157579304/0422e464-c68f-48a8-9354-568c158acf72" height="120" width="150" />
+<img src="https://github.com/Ellen010/Ellen010/assets/157579304/0422e464-c68f-48a8-9354-568c158acf72" height="130" width="170" />
 <img src="https://github.com/Ellen010/Ellen010/assets/157579304/aed1c30a-ff45-42f5-b0c4-a8eba021c14d" height="40" width="60" />
 <img src="https://github.com/Ellen010/Ellen010/assets/157579304/d22a7f2e-6086-498c-9904-4140a578808d" height="40" width="60" />
 <img src="https://github.com/Ellen010/Ellen010/assets/157579304/cfc05d2d-8c27-4c3e-b7da-4eb6199a64c8" height="50" width="60" />
