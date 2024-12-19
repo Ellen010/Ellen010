@@ -36,7 +36,7 @@
 
 
 
-List of tools I used:
+- List of tools I used:
 - MongoDB, Superbase, MySQL, DB designer.
   
 <!---
