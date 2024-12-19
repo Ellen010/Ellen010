@@ -7,7 +7,7 @@
 
 - 💞️ I’m looking to collaborate with all the ethusiasts.
 - 📫 How to reach me: Twitter: @El_w_
-- ⚡ Fun fact: I fond of contemporary art and I read a lot.
+- ⚡ Fun fact: I fond of contemporary art and Carlos Castaneda.
   
 <img src="https://github.com/Ellen010/Ellen010/assets/157579304/77b1893a-e2dc-41be-89f6-ecd6179e9efc" height="100" width="125" />
 <img src="https://github.com/Ellen010/Ellen010/assets/157579304/01432990-b76b-4fae-9079-37e029cb5e59" height="100" width="125" />
