@@ -7,6 +7,7 @@
 
 - 💞️ I’m looking to collaborate with all the ethusiasts.
 - 📫 How to reach me: Twitter: @El_w_
+- 💫 My moto: Dedication combined with hard work is the key to success.
 - ⚡ Fun fact: I fond of contemporary art and Carlos Castaneda.
   
 <img src="https://github.com/Ellen010/Ellen010/assets/157579304/77b1893a-e2dc-41be-89f6-ecd6179e9efc" height="100" width="125" />
