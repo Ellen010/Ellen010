@@ -26,7 +26,9 @@
 <img src="https://github.com/user-attachments/assets/a0eb02f2-8447-4778-8ceb-33b2d5602251" height="50" width="60" />
 <img src="https://github.com/user-attachments/assets/0c542f51-40ed-4601-a470-5f90f6c01e67" height="40" width="60" />
 
-
+<p align="center">
+<img alt="Activity" title="Activity" src="https://github.com/Ellen010/Ellen010/tree/contributions/snake.svg"/>
+</p>
 
 
 - **List of tools I use**: 
