@@ -3,7 +3,7 @@ name: Contributions
 on:
   workflow_dispatch: # Execute manually
   schedule: # Execute every 23 hours
-    - cron: "0 23 * * *"
+    - cron: "0 1 * * *"
 
 jobs:
           
