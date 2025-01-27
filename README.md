@@ -27,7 +27,7 @@
 <img src="https://github.com/user-attachments/assets/0c542f51-40ed-4601-a470-5f90f6c01e67" height="40" width="60" />
 
 <p align="center">
-<img alt="Activity" title="Activity" src="https://github.com/Ellen010/Ellen010/tree/activity/snake.svg"/>
+<img alt="Activity" title="Activity" src="https://github.com/Ellen010/Ellen010/blob/activity/snake.svg"/>
 </p>
 
 
