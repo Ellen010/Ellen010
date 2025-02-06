@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ellen010
 - 👀 I am a full stack dev.
   
-<img src="https://cdn.dribbble.com/users/510724/screenshots/5751670/media/17e0042a98e1b9a0ac2daa8ab078bfa6.gif" height="150" width="175">
+<img src="https://cdn.dribbble.com/users/510724/screenshots/5751670/media/17e0042a98e1b9a0ac2daa8ab078bfa6.gif" height="150" width="175" radius="5px">
 
 - 🎢 I share a lot of useful sources regarding new tools, extensions and all the info you might need in your developer journey. Feel free to read and comment!
 
