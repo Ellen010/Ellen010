@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ellen010
 - 👀 I am a full stack dev.
   
-<img src="https://cdn.dribbble.com/users/510724/screenshots/5751670/media/17e0042a98e1b9a0ac2daa8ab078bfa6.gif" height="150" width="175" border-radius="5px">
+<img src="https://cdn.dribbble.com/users/510724/screenshots/5751670/media/17e0042a98e1b9a0ac2daa8ab078bfa6.gif" height="150" width="175" border-radius: 5px>
 
 - 🎢 I share a lot of useful sources regarding new tools, extensions and all the info you might need in your developer journey. Feel free to read and comment!
 
@@ -25,7 +25,7 @@
 <img src="https://github.com/user-attachments/assets/a0eb02f2-8447-4778-8ceb-33b2d5602251" height="50" width="60" />
 <img src="https://github.com/user-attachments/assets/0c542f51-40ed-4601-a470-5f90f6c01e67" height="40" width="60" />
 
-<p align="center">
+//* <p align="center">
 <img alt="Contributions" title="Contributions" src="https://github.com/Ellen010/Ellen010/blob/contributions/snake.svg"/>
 </p>
 
