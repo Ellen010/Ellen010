@@ -32,8 +32,8 @@
 </p>--->
 
 
-- **List of tools I use**: 
-- MongoDB, Superbase, MySQL, DB designer.
+<!---- **List of tools I use**: 
+- MongoDB, Superbase, MySQL, DB designer.--->
   
 <!---
 Ellen010/Ellen010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
