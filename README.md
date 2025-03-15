@@ -3,13 +3,13 @@
   
 <img src="https://cdn.dribbble.com/users/510724/screenshots/5751670/media/17e0042a98e1b9a0ac2daa8ab078bfa6.gif" height="150" width="175" />
 
-- 🎢 I share a lot of useful sources regarding new tools, extensions and all the info you might need in your developer journey. Feel free to read and comment!
+🎢 I share a lot of useful sources regarding new tools, extensions and all the info you might need in your developer journey. Feel free to read and comment!
 
-- 💞️ I’m looking to collaborate with all the ethusiasts.
-- 💫 My moto: Dedication combined with hard work is the key to success.
-- ⚡ Fun fact: I fond of contemporary art and Carlos Castaneda.
+  💞️ I’m looking to collaborate with all the ethusiasts.
+  💫 My moto: Dedication combined with hard work is the key to success.
+  ⚡ Fun fact: I fond of contemporary art and Carlos Castaneda.
 
-<p>-📫 How to reach me : <a href="https://www.linkedin.com/in/elena-welty-422a02177/" target="_blank" rel="noopener noreferrer"><font color="#c1121f"> Linkedin</font></a></p>
+<p>📫 How to reach me : <a href="https://www.linkedin.com/in/elena-welty-422a02177/" target="_blank" rel="noopener noreferrer"><font color="#c1121f"> Linkedin</font></a></p>
 
 <img src="https://github.com/Ellen010/Ellen010/assets/157579304/77b1893a-e2dc-41be-89f6-ecd6179e9efc" height="100" width="125" />
 <img src="https://github.com/Ellen010/Ellen010/assets/157579304/01432990-b76b-4fae-9079-37e029cb5e59" height="100" width="125" />
