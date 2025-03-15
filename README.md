@@ -9,10 +9,7 @@
 - 💫 My moto: Dedication combined with hard work is the key to success.
 - ⚡ Fun fact: I fond of contemporary art and Carlos Castaneda.
 
-<p>
-  -📫 How to reach me:  
-  [![LinkedIn](https://via.placeholder.com/120x30/c1121f/ffffff?text=LinkedIn)](https://www.linkedin.com/in/sjodj-didhin125)
-</p>
+<p>-📫 How to reach me: <a href="https://www.linkedin.com/in/elena-welty-422a02177/" target="_blank" rel="noopener noreferrer"><font color="#c1121f">Linkedin</font></a></p>
 
 <img src="https://github.com/Ellen010/Ellen010/assets/157579304/77b1893a-e2dc-41be-89f6-ecd6179e9efc" height="100" width="125" />
 <img src="https://github.com/Ellen010/Ellen010/assets/157579304/01432990-b76b-4fae-9079-37e029cb5e59" height="100" width="125" />
