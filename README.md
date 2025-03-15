@@ -6,9 +6,9 @@
 - 🎢 I share a lot of useful sources regarding new tools, extensions and all the info you might need in your developer journey. Feel free to read and comment!
 
 - 💞️ I’m looking to collaborate with all the ethusiasts.
-- 📫 How to reach me: Twitter: @El_w_
 - 💫 My moto: Dedication combined with hard work is the key to success.
 - ⚡ Fun fact: I fond of contemporary art and Carlos Castaneda.
+- -📫 How to reach me: Linkedin: https://www.linkedin.com/in/elena-welty-422a02177/
   
 <img src="https://github.com/Ellen010/Ellen010/assets/157579304/77b1893a-e2dc-41be-89f6-ecd6179e9efc" height="100" width="125" />
 <img src="https://github.com/Ellen010/Ellen010/assets/157579304/01432990-b76b-4fae-9079-37e029cb5e59" height="100" width="125" />
