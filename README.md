@@ -13,7 +13,10 @@
 
 <p>📫 How to reach me : 
   <a href="https://www.linkedin.com/in/elena-welty-422a02177/" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/user-attachments/assets/7071eb4b-8a06-41a7-91c1-2a93276d9cbb" height="50" width="75" />
+    <img src="https://github.com/user-attachments/assets/7071eb4b-8a06-41a7-91c1-2a93276d9cbb" height="30" width="20" />
+  </a>
+  <a href="https://stackoverflow.com/users/29960585/elena?tab=profile/" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/user-attachments/assets/a73be31a-c88a-4dcd-90f2-ce6c33c5873c" height="30" width="20" />
   </a>
 </p>
 <img src="https://github.com/Ellen010/Ellen010/assets/157579304/77b1893a-e2dc-41be-89f6-ecd6179e9efc" height="100" width="125" />
