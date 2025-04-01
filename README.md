@@ -11,8 +11,11 @@
   <p>💫 My moto: Dedication combined with hard work is the key to success.</p>
  <p> ⚡ Fun fact: I fond of contemporary art and Carlos Castaneda.</p>
 
-<p>📫 How to reach me : <img src="https://github.com/user-attachments/assets/7071eb4b-8a06-41a7-91c1-2a93276d9cbb" href="https://www.linkedin.com/in/elena-welty-422a02177/" target="_blank" rel="noopener noreferrer" height="150" width="175"/></p>
-
+<p>📫 How to reach me : 
+  <a href="https://www.linkedin.com/in/elena-welty-422a02177/" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/user-attachments/assets/7071eb4b-8a06-41a7-91c1-2a93276d9cbb" height="50" width="75" />
+  </a>
+</p>
 <img src="https://github.com/Ellen010/Ellen010/assets/157579304/77b1893a-e2dc-41be-89f6-ecd6179e9efc" height="100" width="125" />
 <img src="https://github.com/Ellen010/Ellen010/assets/157579304/01432990-b76b-4fae-9079-37e029cb5e59" height="100" width="125" />
 <img src="https://github.com/user-attachments/assets/7f321349-c1ae-4f9f-9d06-26e4b3a54866" height="100" width="125" />
