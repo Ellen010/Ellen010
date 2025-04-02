@@ -1,10 +1,16 @@
+<div>
+  <div>
 <p>👋 Hi, I’m @Ellen010 </p>
   <p>👀 I am a full-stack dev.</p>
   <p>🐦Do what you love, and love what you do!</p>
   <p>
+  </div>
+  <div>
 <img src="https://cdn.dribbble.com/users/510724/screenshots/5751670/media/17e0042a98e1b9a0ac2daa8ab078bfa6.gif" height="150" width="175" />
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmVzcWd4eGp3ODBvM2VxejNjYnAzaGVubDc5bGU4anJ2cDc3NjZxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QylGq9htJAalQa2k16/giphy.gif" height="150" width="175" />
 </p>
+    </div>
+    </div>
 <p>🎢 I share a lot of useful sources regarding new tools, extensions and all the info you might need in your developer journey. Feel free to read and comment!</p>
 
   <p>💞️ I’m looking to collaborate with all the ethusiasts.</p>
