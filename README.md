@@ -27,7 +27,7 @@
 </p>
 
 
-<img src="https://github.com/user-attachments/assets/0716b5db-dc65-4aa7-91e1-6973b1cd9148" height="100" width="125" />
+<img src="https://github.com/user-attachments/assets/0716b5db-dc65-4aa7-91e1-6973b1cd9148" height="100" width="100" />
 <img src="https://github.com/Ellen010/Ellen010/assets/157579304/77b1893a-e2dc-41be-89f6-ecd6179e9efc" height="100" width="125" />
 <img src="https://github.com/Ellen010/Ellen010/assets/157579304/01432990-b76b-4fae-9079-37e029cb5e59" height="100" width="125" />
 <img src="https://github.com/user-attachments/assets/7f321349-c1ae-4f9f-9d06-26e4b3a54866" height="100" width="125" />
