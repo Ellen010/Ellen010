@@ -42,7 +42,7 @@
 <img src="https://github.com/user-attachments/assets/89a777c3-819b-4a20-9924-22fb63091db6" height="50" width="60" />
 <img src="https://github.com/user-attachments/assets/4da05105-61b5-4e32-8016-1efccb60537d" height="50" width="60" />
 <img src="https://github.com/user-attachments/assets/a0eb02f2-8447-4778-8ceb-33b2d5602251" height="50" width="60" />
-<img src="https://github.com/user-attachments/assets/bedc73ba-f452-410c-bc63-99ebb2ec7021" alt="Node-red-icon"  height="60" width="40"/>
+<img src="https://github.com/user-attachments/assets/bedc73ba-f452-410c-bc63-99ebb2ec7021" alt="Node-red-icon"  height="70" width="50"/>
 
 
   
