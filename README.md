@@ -37,8 +37,8 @@
 <img src="https://github.com/Ellen010/Ellen010/assets/157579304/c0e3db7f-c6ba-4df0-ad63-b572406d6650" height="120" vspace="10" />
 <img src="https://github.com/user-attachments/assets/211da2ef-9687-4ce5-9729-74850fb19d93" height="90" vspace="10" />
 <img src="https://github.com/user-attachments/assets/43d38e6b-fc7f-48f1-8b25-b15d6a55f970" height="50" width="80" vspace="10" />
-<img src="https://github.com/Ellen010/Ellen010/assets/157579304/0422e464-c68f-48a8-9354-568c158acf72" height="120" width="100" vspace="10" />
-<img src="https://github.com/Ellen010/Ellen010/assets/157579304/aed1c30a-ff45-42f5-b0c4-a8eba021c14d" height="60" vspace="10" />
+<img src="https://github.com/Ellen010/Ellen010/assets/157579304/0422e464-c68f-48a8-9354-568c158acf72" height="140" width="120" vspace="10" />
+<img src="https://github.com/Ellen010/Ellen010/assets/157579304/aed1c30a-ff45-42f5-b0c4-a8eba021c14d" height="50" vspace="10" />
 <img src="https://github.com/Ellen010/Ellen010/assets/157579304/d22a7f2e-6086-498c-9904-4140a578808d" height="40" vspace="10" />
 <img src="https://github.com/user-attachments/assets/89a777c3-819b-4a20-9924-22fb63091db6" height="50" vspace="10" />
 <img src="https://github.com/user-attachments/assets/4da05105-61b5-4e32-8016-1efccb60537d" height="50" vspace="10" />
