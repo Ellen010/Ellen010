@@ -26,7 +26,7 @@
   </a>
 </p>
 
-<div align="center" gap="2em">
+<div align="center" gap="5em">
 
 <img src="https://github.com/user-attachments/assets/0716b5db-dc65-4aa7-91e1-6973b1cd9148" height="90" />
 <img src="https://github.com/Ellen010/Ellen010/assets/157579304/77b1893a-e2dc-41be-89f6-ecd6179e9efc" height="80" />
