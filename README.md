@@ -1,7 +1,7 @@
 <div>
   <div>
 <p>👋 Hi, I’m @Ellen010 </p>
-  <p>👀 I am a full-stack dev.</p>
+  <p>👀 I am a full-stack dev</p>
   <p>🐦Do what you love, and love what you do!</p>
   <p>
   </div>
